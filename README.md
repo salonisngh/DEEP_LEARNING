@@ -20,9 +20,11 @@ The goal of this repository is to:
 
 ```
 
+Deep-Learning/ │
+├── Coursera/ # Coursera certificates and grades
+│ └── *.ipynb # Jupyter notebooks for lab assignments (DL Lab 1, 2, 3…)
 
----
-
+```
 ## 🛠️ Tech Stack
 
 * **Language:** Python 🐍
