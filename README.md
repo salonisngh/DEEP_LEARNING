@@ -23,7 +23,9 @@ The goal of this repository is to:
 Deep-Learning/
 │├── Coursera/ # Coursera certificates and grades
 │└── *.ipynb # Jupyter notebooks for lab assignments (DL Lab 1, 2, 3…)
-|├── GENAI(intro) # Generative AI: Foundation Models and Platforms (Coursera Certificate and Grade)
+|├── GENAI(intro) # Generative AI: Introduction and Applications (Coursera Certificate and Grade)
+|├── GENAI(Foundation) # Generative AI: Foundation Models and Platforms (Coursera Certificate and Grade)
+
 
 ```
 ## 🛠️ Tech Stack
